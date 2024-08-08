@@ -1,0 +1,1 @@
+select * from contacts.person where city_of_living ilike 'moscow';
